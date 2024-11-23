@@ -21,7 +21,6 @@ div.title { height: 38px; line-height: 38px; padding: 0 10px; margin: 0; float: 
 .template-wrap { position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); }
 .template-wrap canvas { margin: 0; position: relative; z-index: 9; border:2px solid #f0f0f0;}
 .fullscreen { float: right; position: relative; z-index: 10; }
-.template {}
 
 #background { background: #231F20; position: absolute; }
 #screen { position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); text-align: center; width: 100%; }
