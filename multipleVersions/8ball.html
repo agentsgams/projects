@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Polytrack - Version Select</title>
+    <style>
+        @font-face {
+            font-family: code;
+            src: url(Consolas.ttf);
+        }
+
+        body {
+            background-color: black;
+            font-family: code;
+            color: white;
+        }
+
+        center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+        }
+
+        button {
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <h1>version select</h1>
+        <i>This game your trying to run, <b>"8 Ball Pool"</b> has different versions. Select your choice.</i>
+        <br><br>
+        <button id="1">Original Version</button>&nbsp;<button id="2">Scratch Version</button>
+    </center>
+    <script>
+        var baseurl = "https://agentsgams.github.io/projects/"
+        document.getElementById('1').onclick = function () {
+            window.location.replace(`${baseurl}8ball`)
+        }
+        document.getElementById('2').onclick = function () {
+            window.location.replace(`${baseurl}8ballpool.html`)
+        }
+    </script>
+</body>
+
+</html>
