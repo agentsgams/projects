@@ -13,6 +13,6 @@ There are many different CDNs you can use for this repository. One example is Js
 Just add the folder you want at the end and it will give the RAW FILE. If, rather, you want it to show up instead of just the raw file, use GitHack's CDN.
 
 ```
-https://cdn.jsdelivr.net/gh/agentsgams/agentsgams.github.io@master/index.html
-https://raw.githack.com/agentsgams/agentsgams.github.io/master/index.html
+https://cdn.jsdelivr.net/gh/agentsgams/projects@master/...
+https://raw.githack.com/agentsgams/projects/master/...
 ```
