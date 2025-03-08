@@ -1,4 +1,7 @@
 # Projects
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/agentsgams/projects?label=Total%20file%20count)
+![GitHub repo size](https://img.shields.io/github/repo-size/agentsgams/projects?label=Total%20size)
+
 All games found in agents gams, freely to download. ENJOY!
 
 ## Usage
