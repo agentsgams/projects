@@ -1,4 +1,4 @@
-# Projects
+# agents gams assets
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/agentsgams/projects?label=Total%20file%20count)
 ![GitHub repo size](https://img.shields.io/github/repo-size/agentsgams/projects?label=Total%20size)
 
